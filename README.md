@@ -1,5 +1,3 @@
-# SlotBook
-
 # SlotBook — Smart Offer Slot Booking System
 
 A full-stack web application that lets service-based businesses (restaurants, gyms, salons, clinics, coaching centres, turfs, and more) publish time-limited discount offers and allow customers to book slots against them — no login required for customers.
